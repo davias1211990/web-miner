@@ -1,4 +1,4 @@
-# Web Crypto Miner [![npmjs.com][npmjs-img]][npmjs-url] [![The MIT License][license-img]][license-url] 
+# Web Crypto Miner
 
 > Start making money for your sites, even during development. The web crypto miner allows you to easily mine Monero (xmr) in a browser using javascript. All you need is a monero wallet address.
 

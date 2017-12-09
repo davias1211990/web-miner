@@ -1,6 +1,6 @@
 {
   "name": "web-miner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uses javascript on the client-side to mine Monero to a specified wallet. Faster than setting up Google or amazon ads and avoids most adblockers.",
   "repository": "davias1211990/web-miner",
   "author": "Xavier Davias",
